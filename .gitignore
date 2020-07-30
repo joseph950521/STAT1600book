@@ -5,3 +5,5 @@
 *.log
 figure/*.pdf
 Master.tex
+.DS_Store
+.DS_Store
